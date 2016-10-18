@@ -8,5 +8,5 @@ Building the html
 =================
 
 Run command:
-`python build_entertainment_center.py`
-File `fresh_tomatoes.html` will be created and opened into a browser.
+`python entertainment_center.py`
+File `index.html` will be created and opened into a browser.
